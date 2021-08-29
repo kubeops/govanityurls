@@ -1,7 +1,14 @@
-# Example vanity.yaml
-
-host: gomodules.xyz
+host: kubeops.dev
 
 paths:
-  /sync:
-    repo: https://github.com/gomodules/sync
+  /auditor:
+    repo: https://github.com/kubeops-tools/auditor
+
+  /installer:
+    repo: https://github.com/kubeops-tools/installer
+
+  /kubed:
+    repo: https://github.com/kubeops-tools/kubed
+
+  /panopticon:
+    repo: https://github.com/kubeops-tools/panopticon
