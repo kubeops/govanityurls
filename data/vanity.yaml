@@ -12,3 +12,6 @@ paths:
 
   /panopticon:
     repo: https://github.com/kubeops-tools/panopticon
+
+  /resource-calculator:
+    repo: https://github.com/kubeops/resource-calculator
