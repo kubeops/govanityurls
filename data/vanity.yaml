@@ -16,5 +16,5 @@ paths:
   /resource-calculator:
     repo: https://github.com/kubeops/resource-calculator
 
-  /csi-driver-ca-certificates:
-    repo: https://github.com/kubeops/csi-driver-ca-certificates
+  /csi-driver-cacerts:
+    repo: https://github.com/kubeops/csi-driver-cacerts
