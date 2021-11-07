@@ -4,6 +4,9 @@ paths:
   /auditor:
     repo: https://github.com/kubeops-tools/auditor
 
+  /cluster-connector:
+    repo: https://github.com/kubeops/cluster-connector
+
   /installer:
     repo: https://github.com/kubeops-tools/installer
 
