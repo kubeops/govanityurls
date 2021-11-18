@@ -21,3 +21,6 @@ paths:
 
   /csi-driver-cacerts:
     repo: https://github.com/kubeops/csi-driver-cacerts
+
+  /ui-server:
+    repo: https://github.com/kubeops/ui-server
