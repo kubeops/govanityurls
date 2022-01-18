@@ -7,6 +7,9 @@ paths:
   /cluster-connector:
     repo: https://github.com/kubeops/cluster-connector
 
+  /csi-driver-cacerts:
+    repo: https://github.com/kubeops/csi-driver-cacerts
+
   /installer:
     repo: https://github.com/kubeops-tools/installer
 
@@ -19,8 +22,8 @@ paths:
   /resource-calculator:
     repo: https://github.com/kubeops/resource-calculator
 
-  /csi-driver-cacerts:
-    repo: https://github.com/kubeops/csi-driver-cacerts
+  /supervisor:
+    repo: https://github.com/kubeops/supervisor
 
   /ui-server:
     repo: https://github.com/kubeops/ui-server
