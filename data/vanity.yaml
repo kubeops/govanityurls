@@ -2,7 +2,7 @@ host: kubeops.dev
 
 paths:
   /auditor:
-    repo: https://github.com/kubeops-tools/auditor
+    repo: https://github.com/kubeops/auditor
 
   /cluster-connector:
     repo: https://github.com/kubeops/cluster-connector
@@ -11,13 +11,13 @@ paths:
     repo: https://github.com/kubeops/csi-driver-cacerts
 
   /installer:
-    repo: https://github.com/kubeops-tools/installer
+    repo: https://github.com/kubeops/installer
 
   /kubed:
-    repo: https://github.com/kubeops-tools/kubed
+    repo: https://github.com/kubeops/kubed
 
   /panopticon:
-    repo: https://github.com/kubeops-tools/panopticon
+    repo: https://github.com/kubeops/panopticon
 
   /resource-calculator:
     repo: https://github.com/kubeops/resource-calculator
