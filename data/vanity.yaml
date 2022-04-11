@@ -10,6 +10,9 @@ paths:
   /csi-driver-cacerts:
     repo: https://github.com/kubeops/csi-driver-cacerts
 
+  /fsloader:
+    repo: https://github.com/kubeops/fsloader
+
   /installer:
     repo: https://github.com/kubeops/installer
 
