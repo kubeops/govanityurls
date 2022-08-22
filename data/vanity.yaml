@@ -4,6 +4,9 @@ paths:
   /auditor:
     repo: https://github.com/kubeops/auditor
 
+  /cert-lister:
+    repo: https://github.com/kubeops/cert-lister
+
   /cluster-connector:
     repo: https://github.com/kubeops/cluster-connector
 
