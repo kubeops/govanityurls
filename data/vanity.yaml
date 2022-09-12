@@ -28,6 +28,9 @@ paths:
   /resource-calculator:
     repo: https://github.com/kubeops/resource-calculator
 
+  /scanner:
+    repo: https://github.com/kubeops/scanner
+
   /supervisor:
     repo: https://github.com/kubeops/supervisor
 
