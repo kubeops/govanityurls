@@ -19,6 +19,9 @@ paths:
   /fsloader:
     repo: https://github.com/kubeops/fsloader
 
+  /img-tools:
+    repo: https://github.com/kubeops/img-tools
+
   /installer:
     repo: https://github.com/kubeops/installer
 
