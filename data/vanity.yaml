@@ -37,6 +37,9 @@ paths:
   /scanner:
     repo: https://github.com/kubeops/scanner
 
+  /sidekick:
+    repo: https://github.com/kubeops/sidekick
+
   /supervisor:
     repo: https://github.com/kubeops/supervisor
 
