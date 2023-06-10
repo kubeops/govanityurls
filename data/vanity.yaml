@@ -16,6 +16,9 @@ paths:
   /external-dns-operator:
     repo: https://github.com/kubeops/external-dns-operator
 
+  /falco-ui-server:
+    repo: github.com/kubeops/falco-ui-server
+
   /fsloader:
     repo: https://github.com/kubeops/fsloader
 
