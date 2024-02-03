@@ -43,8 +43,8 @@ paths:
   /sidekick:
     repo: https://github.com/kubeops/sidekick
 
-  /statefulset:
-    repo: https://github.com/kubeops/statefulset
+  /petset:
+    repo: https://github.com/kubeops/petset
 
   /supervisor:
     repo: https://github.com/kubeops/supervisor
