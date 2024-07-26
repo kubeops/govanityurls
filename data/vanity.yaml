@@ -51,3 +51,6 @@ paths:
 
   /ui-server:
     repo: https://github.com/kubeops/ui-server
+
+  /vcluster-plugin:
+    repo: https://github.com/kubeops/vcluster-plugin
