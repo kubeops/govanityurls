@@ -18,6 +18,8 @@ paths:
     repo: https://github.com/kubeops/installer
   /kubed:
     repo: https://github.com/kubeops/kubed
+  /operator-sharding:
+    repo: https://github.com/kubeops/operator-sharding
   /panopticon:
     repo: https://github.com/kubeops/panopticon
   /petset:
