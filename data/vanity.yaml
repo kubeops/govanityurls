@@ -24,6 +24,8 @@ paths:
     repo: https://github.com/kubeops/panopticon
   /petset:
     repo: https://github.com/kubeops/petset
+  /pgoutbox:
+    repo: https://github.com/kubeops/pgoutbox
   /resource-calculator:
     repo: https://github.com/kubeops/resource-calculator
   /scanner:
@@ -36,5 +38,3 @@ paths:
     repo: https://github.com/kubeops/ui-server
   /vcluster-plugin:
     repo: https://github.com/kubeops/vcluster-plugin
-  /wal-listener:
-    repo: https://github.com/kubeops/wal-listener
