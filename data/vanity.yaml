@@ -28,6 +28,8 @@ paths:
     repo: https://github.com/kubeops/petset
   /pgoutbox:
     repo: https://github.com/kubeops/pgoutbox
+    versions:
+    - apis
   /resource-calculator:
     repo: https://github.com/kubeops/resource-calculator
   /scanner:
