@@ -39,7 +39,7 @@ paths:
   /supervisor:
     repo: https://github.com/kubeops/supervisor
   /taskqueue:
-    repo: https://github.com/kubestash/taskqueue
+    repo: https://github.com/kubeops/taskqueue
   /ui-server:
     repo: https://github.com/kubeops/ui-server
   /vcluster-plugin:
