@@ -29,7 +29,7 @@ paths:
   /pgoutbox:
     repo: https://github.com/kubeops/pgoutbox
     versions:
-    - apis
+    - utils
   /resource-calculator:
     repo: https://github.com/kubeops/resource-calculator
   /scanner:
