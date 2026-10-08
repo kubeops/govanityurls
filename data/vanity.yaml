@@ -8,6 +8,8 @@ paths:
     repo: https://github.com/kubeops/cluster-connector
   /csi-driver-cacerts:
     repo: https://github.com/kubeops/csi-driver-cacerts
+  /dr-controlplane:
+    repo: https://github.com/kubeops/dr-controlplane
   /external-dns-operator:
     repo: https://github.com/kubeops/external-dns-operator
   /falco-ui-server:
